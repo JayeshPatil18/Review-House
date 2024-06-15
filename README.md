@@ -25,6 +25,19 @@ Welcome to **Review House**, your go-to platform for sharing and discovering pro
 - **Firebase**: For backend services including authentication, database, and cloud storage to ensure a robust and scalable application.
 - **Node.js**: For backend REST api services to maintain records of users.
 
+## Project Structure (Clean Architecture)
+
+- **constants/**: Contains application-wide constants.
+- **features/**: Contains all the feature-specific code.
+  - **authentication/**: Handles user authentication.
+    - **data/**: Contains data sources and models.
+    - **domain/**: Contains business logic and use cases.
+    - **presentation/**: Contains UI code such as widgets and screens.
+  - **review/**: Handles product reviews.
+    - **data/**: Contains data sources and models.
+    - **domain/**: Contains business logic and use cases.
+    - **presentation/**: Contains UI code such as widgets and screens.
+
 ## Getting Started
 
 To get started with **Review House**, follow these steps:
