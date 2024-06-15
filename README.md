@@ -58,7 +58,7 @@ lib
 │           ├── provider
 │           ├── pages
 │           └── widgets
-
+```
 
 ## Getting Started
 
