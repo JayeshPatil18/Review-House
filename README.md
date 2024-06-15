@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   Review House
   <a href="https://github.com/yourusername/review-house">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" align="right">
