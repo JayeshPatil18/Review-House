@@ -1,16 +1,14 @@
-<h1 align="left">
-  Review House
-  <a href="https://github.com/yourusername/review-house">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" align="right">
-  </a>
+<div align="left">
+  <h1>Review House</h1>
   <a href="https://play.google.com/store/apps/details?id=com.yourapp.reviewhouse">
-    <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" align="right">
+    <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" style="margin-left: 10px;">
   </a>
-</h1>
+  <a href="https://github.com/yourusername/review-house">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin-left: 10px;">
+  </a>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="margin-left: 10px;">
+</div>
 
-<p align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</p>
 
 Welcome to **Review House**, your go-to platform for sharing and discovering product reviews.
 
