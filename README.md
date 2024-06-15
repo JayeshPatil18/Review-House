@@ -1,6 +1,10 @@
 # Review House
 
-Welcome to **Review House**, your go-to platform for sharing and discovering product reviews. Whether it's the latest gadget or a daily essential, Review House allows you to share your honest feedback and help others make informed purchasing decisions.
+Welcome to **Review House**, your go-to platform for sharing and discovering product reviews.
+
+## Screenshots
+![Available Soon on Play store ](https://github.com/JayeshPatil18/Review-House/blob/master/review-house.png)
+
 
 ## Description
 
@@ -13,10 +17,6 @@ Welcome to **Review House**, your go-to platform for sharing and discovering pro
 - **Upload Reviews**: Share your own experiences by uploading reviews of products you’ve used.
 - **Leaderboard of Reviewers**: See who the top reviewers are in our community with our leaderboard feature.
 - **User Profile Dashboard**: Manage your reviews and track your contributions through a personalized dashboard.
-
-## Screenshots
-
-
 
 ## Technology Used
 
