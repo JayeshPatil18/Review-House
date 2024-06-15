@@ -16,17 +16,7 @@ Welcome to **Review House**, your go-to platform for sharing and discovering pro
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-*Caption: The main screen where you can search and filter product reviews.*
 
-![Review Screen](screenshots/review_screen.png)
-*Caption: An example of a product review page.*
-
-![Leaderboard](screenshots/leaderboard.png)
-*Caption: The leaderboard showcasing the top reviewers.*
-
-![User Dashboard](screenshots/user_dashboard.png)
-*Caption: Your personal dashboard to manage your reviews and profile.*
 
 ## Technology Used
 
@@ -39,4 +29,12 @@ To get started with **Review House**, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/review-house.git
+   git clone https://github.com/JayeshPatil18/Review-House.git
+
+1. **Install dependencies**:
+   ```bash
+   flutter pub get
+
+1. **Run applicatoin**:
+   ```bash
+   flutter run
