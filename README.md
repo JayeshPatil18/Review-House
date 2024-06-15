@@ -3,8 +3,8 @@
 Welcome to **Review House**, your go-to platform for sharing and discovering product reviews.
 
 ## Screenshots
+*Caption: Available Soon On Play Store.*
 ![Available Soon on Play store ](https://github.com/JayeshPatil18/Review-House/blob/master/review-house.png)
-
 
 ## Description
 
