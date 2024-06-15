@@ -8,8 +8,7 @@
   </a>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="margin-left: 10px;">
 </div>
-
-
+</br>
 
 Welcome to **Review House**, your go-to platform for sharing and discovering product reviews.
 
