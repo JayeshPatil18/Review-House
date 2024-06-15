@@ -22,6 +22,7 @@ Welcome to **Review House**, your go-to platform for sharing and discovering pro
 
 - **Flutter**: For building the cross-platform mobile application with a seamless and beautiful user interface.
 - **Firebase**: For backend services including authentication, database, and cloud storage to ensure a robust and scalable application.
+- **Node.js**: For backend REST api services to maintain records of users.
 
 ## Getting Started
 
