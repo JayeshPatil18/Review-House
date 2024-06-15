@@ -9,21 +9,21 @@ Welcome to **Review House**, your go-to platform for sharing and discovering pro
 
 ## Description
 
-**Review House** is designed to make reviewing and finding reviews as simple as possible. Our platform covers a wide range of products, from electronics to groceries, providing a space for users to share their experiences and insights. With an intuitive interface, posting and browsing reviews is effortless, ensuring that you can always find the information you need.
+**Review House** simplifies the process of reviewing and finding reviews. From electronics to groceries, our platform lets users share experiences and insights with ease. With an intuitive interface, posting and browsing reviews is effortless, ensuring you always find the information you need.
 
 ## Features
 
-- **Search Product Reviews**: Easily find reviews for specific products by using our robust search functionality.
-- **Apply Filters**: Narrow down your search results by applying filters for brands and product categories.
-- **Upload Reviews**: Share your own experiences by uploading reviews of products you’ve used.
-- **Leaderboard of Reviewers**: See who the top reviewers are in our community with our leaderboard feature.
-- **User Profile Dashboard**: Manage your reviews and track your contributions through a personalized dashboard.
+- **Search Product Reviews**: Find specific product reviews quickly with robust search functionality.
+- **Apply Filters**: Narrow down search results by brand and product category.
+- **Upload Reviews**: Share your experiences by uploading reviews of products you’ve used.
+- **Leaderboard of Reviewers**: Discover top reviewers in our community.
+- **User Profile Dashboard**: Manage your reviews and track contributions through a personalized dashboard.
 
 ## Technology Used
 
-- **Flutter**: For building the cross-platform mobile application with a seamless and beautiful user interface.
-- **Firebase**: For backend services including authentication, database, and cloud storage to ensure a robust and scalable application.
-- **Node.js**: For backend REST api services to maintain records of users.
+- **Flutter**: For a seamless, beautiful cross-platform mobile application.
+- **Firebase**: Ensuring robust and scalable backend services including authentication, database, and cloud storage.
+- **Node.js**: For backend REST API services to maintain user records.
 
 ## Project Structure
 
